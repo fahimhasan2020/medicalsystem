@@ -14,6 +14,11 @@ use DB;
 use Sentinel;
 use Carbon\Carbon;
 use Cache;
+use App\Model\SugarTraining;
+use App\Model\BloodPressureTraining;
+use App\Model\EcgTraining;
+use App\Model\TemperatureTraining;
+use App\Model\OxyzenSaturationTraining;
 
 class HomeController extends Controller
 {
@@ -489,4 +494,31 @@ class HomeController extends Controller
             return false;
         }
     }
+
+    public function ecg(){
+        $data = EcgTraining::all();
+        return Inertia::render('Ecg',['data'=>$data]);
+    }
+
+    public function temperature(){
+        $data = TemperatureTraining::all();
+        return Inertia::render('Temperature',['data'=>$data]);
+    }
+
+    public function bp(){
+        $data = BloodPressureTraining::all();
+        return Inertia::render('BP',['data'=>$data]);
+    }
+
+    public function os(){
+        $data = OxyzenSaturationTraining::all();
+        return Inertia::render('OS',['data'=>$data]);
+    }
+
+    public function sugar(){
+        $data = SugarTraining::all();
+        return Inertia::render('Sugar',['data'=>$data]);
+    }
+
+
 }

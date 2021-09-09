@@ -1,8 +1,8 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[9],{
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js&":
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js&":
 /*!****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js& ***!
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js& ***!
   \****************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -12,6 +12,415 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Mixins_Dashboard__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../Mixins/Dashboard */ "./resources/js/Mixins/Dashboard.js");
 /* harmony import */ var _inc_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../inc/Layout */ "./resources/js/Pages/inc/Layout.vue");
 /* harmony import */ var _Inc_Navigation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Inc/Navigation */ "./resources/js/Pages/Mail/Inc/Navigation.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -144,8 +553,7 @@ __webpack_require__.r(__webpack_exports__);
     return {//
     };
   },
-  props: {
-    mails: Object
+  props: {//
   },
   computed: {//
   },
@@ -206,9 +614,9 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&":
+/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&":
 /*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& ***!
+  !*** ./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& ***!
   \***********************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -218,7 +626,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.unread[data-v-7f5fe777]{\n    border-bottom: 2px solid #ededed;\n}\n.markedAsRead[data-v-7f5fe777]{\n    background-color: #dddddd;\n}\n", ""]);
+exports.push([module.i, "\n.unread[data-v-15d78ddc]{\n    border-bottom: 2px solid #ededed;\n}\n", ""]);
 
 // exports
 
@@ -244,15 +652,15 @@ exports.push([module.i, "@keyframes fadeOut{from{opacity:1}to{opacity:0}}.fadeOu
 
 /***/ }),
 
-/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&":
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&":
 /*!***************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/style-loader!./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& ***!
+  !*** ./node_modules/style-loader!./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& ***!
   \***************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& */ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& */ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -274,9 +682,9 @@ if(false) {}
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true&":
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true&":
 /*!********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true& ***!
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true& ***!
   \********************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -289,7 +697,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("layout", { attrs: { title: "Admin | Mail Inbox" } }, [
+  return _c("layout", { attrs: { title: "Admin | Mail Draft" } }, [
     _c("div", { staticClass: "content-page" }, [
       _c("div", { staticClass: "content" }, [
         _c("div", { staticClass: "container" }, [
@@ -560,109 +968,1147 @@ var render = function() {
                           "table",
                           { staticClass: "table table-hover mails m-0" },
                           [
-                            _c(
-                              "tbody",
-                              _vm._l(_vm.mails.data, function(m) {
-                                return _vm.mails.data.length > 0
-                                  ? _c(
-                                      "tr",
-                                      {
-                                        staticClass: "unread",
-                                        class: [
-                                          m.read === 1 ? "markedAsRead" : ""
-                                        ]
-                                      },
-                                      [
-                                        _c(
-                                          "td",
-                                          { staticClass: "mail-select" },
-                                          [
-                                            _c(
-                                              "div",
-                                              {
-                                                staticClass:
-                                                  "checkbox checkbox-primary m-r-15"
-                                              },
-                                              [
-                                                _c("input", {
-                                                  attrs: {
-                                                    id: "checkbox1",
-                                                    type: "checkbox"
-                                                  }
-                                                }),
-                                                _vm._v(" "),
-                                                _c("label", {
-                                                  attrs: { for: "checkbox1" }
-                                                })
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "td",
-                                          [
-                                            _c(
-                                              "inertia-link",
-                                              {
-                                                staticClass: "email-name",
-                                                attrs: {
-                                                  href: "/admins/mail/" + m.id
-                                                }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  _vm._s(
-                                                    m.sender.substring(0, 20)
-                                                  )
-                                                )
-                                              ]
-                                            )
-                                          ],
-                                          1
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "td",
-                                          { staticClass: "hidden-xs" },
-                                          [
-                                            _c(
-                                              "inertia-link",
-                                              {
-                                                staticClass: "email-msg",
-                                                attrs: {
-                                                  href: "/admins/mail/" + m.id
-                                                }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  _vm._s(
-                                                    m.subject.substring(0, 20)
-                                                  )
-                                                )
-                                              ]
-                                            )
-                                          ],
-                                          1
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "td",
-                                          { staticStyle: { width: "20px" } },
-                                          [
-                                            _c("i", {
-                                              staticClass: "fa fa-paperclip"
-                                            })
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c("td", { staticClass: "text-right" })
-                                      ]
-                                    )
-                                  : _vm._e()
-                              }),
-                              0
-                            )
+                            _c("tbody", [
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox10",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox10" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox11",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox11" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox2",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox2" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox13",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox13" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox3",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox3" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox4",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox4" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox15",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox15" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox14",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox14" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox16",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox16" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox5",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox5" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox17",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox17" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox6",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox6" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox19",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox19" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox18",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox18" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox20",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox20" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox21",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox21" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox7",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox7" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox1",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox1" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("tr", { staticClass: "unread" }, [
+                                _c("td", { staticClass: "mail-select" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "checkbox checkbox-primary m-r-15"
+                                    },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          id: "checkbox8",
+                                          type: "checkbox"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("label", {
+                                        attrs: { for: "checkbox8" }
+                                      })
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-name",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [_vm._v("Google Inc")]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "hidden-xs" }, [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "email-msg",
+                                      attrs: { href: "email-read.html" }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+                                      )
+                                    ]
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticStyle: { width: "20px" } }, [
+                                  _c("i", { staticClass: "fa fa-paperclip" })
+                                ]),
+                                _vm._v(" "),
+                                _c("td", { staticClass: "text-right" }, [
+                                  _vm._v(
+                                    "\n                                                    07:23 AM\n                                                "
+                                  )
+                                ])
+                              ])
+                            ])
                           ]
                         )
                       ]),
@@ -836,18 +2282,18 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Mail/Inbox.vue":
+/***/ "./resources/js/Pages/Mail/Draft.vue":
 /*!*******************************************!*\
-  !*** ./resources/js/Pages/Mail/Inbox.vue ***!
+  !*** ./resources/js/Pages/Mail/Draft.vue ***!
   \*******************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Inbox.vue?vue&type=template&id=7f5fe777&scoped=true& */ "./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true&");
-/* harmony import */ var _Inbox_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Inbox.vue?vue&type=script&lang=js& */ "./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& */ "./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&");
+/* harmony import */ var _Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Draft.vue?vue&type=template&id=15d78ddc&scoped=true& */ "./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true&");
+/* harmony import */ var _Draft_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Draft.vue?vue&type=script&lang=js& */ "./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& */ "./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -858,66 +2304,66 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 
 var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
-  _Inbox_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Draft_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
-  "7f5fe777",
+  "15d78ddc",
   null
   
 )
 
 /* hot reload */
 if (false) { var api; }
-component.options.__file = "resources/js/Pages/Mail/Inbox.vue"
+component.options.__file = "resources/js/Pages/Mail/Draft.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js&":
+/***/ "./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js&":
 /*!********************************************************************!*\
-  !*** ./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js& ***!
+  !*** ./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js& ***!
   \********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./Inbox.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./Draft.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&":
+/***/ "./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&":
 /*!****************************************************************************************************!*\
-  !*** ./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& ***!
+  !*** ./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& ***!
   \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/style-loader!../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=style&index=0&id=7f5fe777&scoped=true&lang=css&");
-/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
- /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_style_index_0_id_7f5fe777_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/style-loader!../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=style&index=0&id=15d78ddc&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_style_index_0_id_15d78ddc_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true&":
+/***/ "./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true&":
 /*!**************************************************************************************!*\
-  !*** ./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true& ***!
+  !*** ./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true& ***!
   \**************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Inbox.vue?vue&type=template&id=7f5fe777&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Inbox.vue?vue&type=template&id=7f5fe777&scoped=true&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Draft.vue?vue&type=template&id=15d78ddc&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/Pages/Mail/Draft.vue?vue&type=template&id=15d78ddc&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Inbox_vue_vue_type_template_id_7f5fe777_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Draft_vue_vue_type_template_id_15d78ddc_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

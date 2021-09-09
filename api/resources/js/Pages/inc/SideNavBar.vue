@@ -26,6 +26,16 @@
                             <li><inertia-link href="/admins/user">User</inertia-link></li>
                         </ul>
                     </li><!----------Users------------>
+                    <li class="has_sub">
+                        <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-account"></i> <span> Training Data </span> <span class="menu-arrow"></span></a>
+                        <ul class="list-unstyled">
+                            <li><inertia-link href="/admins/ecg">ECG</inertia-link></li>
+                            <li><inertia-link href="/admins/bp">BP</inertia-link></li>
+                            <li><inertia-link href="/admins/temperature">Temperature</inertia-link></li>
+                            <li><inertia-link href="/admins/sugar">Sugar</inertia-link></li>
+                            <li><inertia-link href="/admins/os">OS</inertia-link></li>
+                        </ul>
+                    </li><!----------Users------------>
 
                     <li class="menu-title">Marketing</li>
                     <li class="has_sub">

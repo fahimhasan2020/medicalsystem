@@ -43,7 +43,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "js/" + ({}[chunkId]||chunkId) + ".js?id=" + {"0":"01ef00c168ac8ed347cd","1":"8b34657c533242d3d3a4","2":"1e43d44b4b7bfd84c75d","3":"d7917360d5f9b762242a","4":"5173720e9eff857be89b","5":"c09df3c41bc2b2c8a573","6":"59b17343767e23db05a2","7":"4fe3d19cc7f0224835a7","8":"f749fb71bf0a8afa9d3d","9":"9ed8a8dc4803a6c9180d","10":"9fcc78697137f050cd21","11":"e134c71338a1381e961f","12":"a3cd0146c3bbe032f115","13":"dee6447193fd07e44982","14":"fec09bce13739243ad65","15":"b4228ccd90e82fa063e1","16":"54891490e506141e54da","17":"464ce1c6f2b1fa29fea3","18":"5bd01c13b26f5d6d833f","19":"1519dc894fa73abaa45d","20":"0b493724046f5c65207b","21":"8993839cc1e2d6eb4f86","22":"004cfc431cf65b661766","23":"f0175453bb5d5c935d02","24":"e1939697f257971af8fe","25":"4750c209cee8c736412b","26":"a9237146dc23ec6548d2","27":"8139a1f48f4c15329d62","28":"9a99e45b25586477213c","29":"92aea9a6a2d3fd71bae5","30":"368ed265345397b007cb","31":"76e19fe89aa69c3e8e7d","32":"d6312408d166b0cff2ee","33":"520fdf2b20a670747c2b","34":"0bac3ff43ddd29d294b7","35":"4e34f449371e38729bc0","36":"2c0ed13db83e63f77747","37":"db9d4d9682084fd7d39d","38":"20a1eb5f0d473a3c2fb3","39":"67c48377e70136fef8d3","40":"a195a592e9ab8167ebcc","41":"e0959568767a2fa942c2","42":"6a5538a688c97619bfd1","43":"9420e2796b119b8a87e8","45":"abf2645738da0e3cdf38"}[chunkId] + ""
+/******/ 		return __webpack_require__.p + "js/" + ({}[chunkId]||chunkId) + ".js?id=" + {"0":"8c6f846c0acc6bb50c6a","1":"118932230ea8e7cad51c","2":"b16ac319673d81b08d24","3":"6ac246ae700c3ffdc584","4":"badfe817256a85d9f97c","5":"268793691a99483e5f61","6":"c86f7dd3bfa8d795425f","7":"4fe3d19cc7f0224835a7","8":"17ab3abc34663bd4c456","9":"b5e6c9ccea71e3bb07b3","10":"5f2ae015dd80f3b89bdf","11":"2b40106c3a43d6471b0e","12":"5c0c0f070e648ea5a28c","13":"629450224b9a11d49b4b","14":"72ea1ed57c8cb5bd49db","15":"555c84b5c5ef4e28094b","16":"5958a93dad78fda49265","17":"7d6be9dc71a4e9348dee","18":"50d8131252839210749e","19":"57aa247ff0540ba7e051","20":"5c088adcffec2eb19916","21":"b5cbfe402a9e9a148fd0","22":"dd13a1e9fca992540cc6","23":"0bb19f013e83edd4b291","24":"009583f108bbfedf98f8","25":"f458f7e1cc1dda56bd40","26":"35c26065b315c7d713da","27":"8580d0657136687828e5","28":"81caad35d754df3a9f7f","29":"c7eda027b61069511787","30":"c939906c954776fff665","31":"e026e97a4fec2145b00a","32":"377f9d4cfb024139e3a3","33":"64017389b8d822c05f8c","34":"638b2fd08eb4e33a5063","35":"a10b32a15878305a592f","36":"121299e4cc88438a770f","37":"381738114a3b897f6c4b","38":"c3521a1e828766125b37","39":"9f927fe0d3df4768b6c0","40":"11219a109d2f9af65dcc","41":"782043286a342e399e07","42":"3bb564fb8610b5bc67cf","43":"bfd54397f318584e3df7","44":"c5f4573d4e41695d3544","45":"6ba53f8ab7ab2ba680a4","46":"b20e06d84a4bb90fa4e5","47":"f07aae6003b35eaecda4","48":"87784d7977514702a795"}[chunkId] + ""
 /******/ 	}
 /******/
 /******/ 	// The require function
@@ -67334,315 +67334,385 @@ module.exports = g;
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
+	"./BP": [
+		"./resources/js/Pages/BP.vue",
+		0,
+		1,
+		2,
+		30
+	],
+	"./BP.vue": [
+		"./resources/js/Pages/BP.vue",
+		0,
+		1,
+		2,
+		30
+	],
 	"./BrowserDetect": [
 		"./resources/js/Pages/BrowserDetect.vue",
 		7,
-		24
+		26
 	],
 	"./BrowserDetect.vue": [
 		"./resources/js/Pages/BrowserDetect.vue",
 		7,
-		24
+		26
 	],
 	"./Dashboard": [
 		"./resources/js/Pages/Dashboard.vue",
 		0,
 		1,
 		2,
-		15
+		17
 	],
 	"./Dashboard.vue": [
 		"./resources/js/Pages/Dashboard.vue",
 		0,
 		1,
 		2,
-		15
+		17
+	],
+	"./Ecg": [
+		"./resources/js/Pages/Ecg.vue",
+		0,
+		1,
+		2,
+		31
+	],
+	"./Ecg.vue": [
+		"./resources/js/Pages/Ecg.vue",
+		0,
+		1,
+		2,
+		31
 	],
 	"./Forget": [
 		"./resources/js/Pages/Forget.vue",
-		25
+		27
 	],
 	"./Forget.vue": [
 		"./resources/js/Pages/Forget.vue",
-		25
+		27
 	],
 	"./HoldScreen": [
 		"./resources/js/Pages/HoldScreen.vue",
-		34
+		41
 	],
 	"./HoldScreen.vue": [
 		"./resources/js/Pages/HoldScreen.vue",
-		34
+		41
 	],
 	"./LockScreen": [
 		"./resources/js/Pages/LockScreen.vue",
-		16
+		18
 	],
 	"./LockScreen.vue": [
 		"./resources/js/Pages/LockScreen.vue",
-		16
+		18
 	],
 	"./Login": [
 		"./resources/js/Pages/Login.vue",
-		17
+		19
 	],
 	"./Login.vue": [
 		"./resources/js/Pages/Login.vue",
-		17
+		19
 	],
 	"./Mail/Compose": [
 		"./resources/js/Pages/Mail/Compose.vue",
-		39,
+		45,
 		0,
 		1,
 		2,
-		13
+		14
 	],
 	"./Mail/Compose.vue": [
 		"./resources/js/Pages/Mail/Compose.vue",
-		39,
+		45,
 		0,
 		1,
 		2,
-		13
+		14
 	],
 	"./Mail/Contacts": [
 		"./resources/js/Pages/Mail/Contacts.vue",
 		0,
 		1,
 		2,
-		28
+		32
 	],
 	"./Mail/Contacts.vue": [
 		"./resources/js/Pages/Mail/Contacts.vue",
 		0,
 		1,
 		2,
-		28
+		32
 	],
 	"./Mail/Draft": [
 		"./resources/js/Pages/Mail/Draft.vue",
 		0,
 		1,
 		2,
-		8
+		9
 	],
 	"./Mail/Draft.vue": [
 		"./resources/js/Pages/Mail/Draft.vue",
 		0,
 		1,
 		2,
-		8
+		9
 	],
 	"./Mail/Inbox": [
 		"./resources/js/Pages/Mail/Inbox.vue",
 		0,
 		1,
 		2,
-		9
+		10
 	],
 	"./Mail/Inbox.vue": [
 		"./resources/js/Pages/Mail/Inbox.vue",
 		0,
 		1,
 		2,
-		9
+		10
 	],
 	"./Mail/Inc/Navigation": [
 		"./resources/js/Pages/Mail/Inc/Navigation.vue",
-		35
+		42
 	],
 	"./Mail/Inc/Navigation.vue": [
 		"./resources/js/Pages/Mail/Inc/Navigation.vue",
-		35
+		42
 	],
 	"./Mail/Sent": [
 		"./resources/js/Pages/Mail/Sent.vue",
 		0,
 		1,
 		2,
-		10
+		11
 	],
 	"./Mail/Sent.vue": [
 		"./resources/js/Pages/Mail/Sent.vue",
 		0,
 		1,
 		2,
-		10
+		11
 	],
 	"./Mail/SingleInfoMail": [
 		"./resources/js/Pages/Mail/SingleInfoMail.vue",
 		0,
 		1,
 		2,
-		45
+		8
 	],
 	"./Mail/SingleInfoMail.vue": [
 		"./resources/js/Pages/Mail/SingleInfoMail.vue",
 		0,
 		1,
 		2,
-		45
+		8
 	],
 	"./Mail/Spam": [
 		"./resources/js/Pages/Mail/Spam.vue",
 		0,
 		1,
 		2,
-		11
+		12
 	],
 	"./Mail/Spam.vue": [
 		"./resources/js/Pages/Mail/Spam.vue",
 		0,
 		1,
 		2,
-		11
+		12
 	],
 	"./Mail/Support": [
 		"./resources/js/Pages/Mail/Support.vue",
 		0,
 		1,
 		2,
-		29
+		33
 	],
 	"./Mail/Support.vue": [
 		"./resources/js/Pages/Mail/Support.vue",
 		0,
 		1,
 		2,
-		29
+		33
 	],
 	"./Mail/Trash": [
 		"./resources/js/Pages/Mail/Trash.vue",
 		0,
 		1,
 		2,
-		12
+		13
 	],
 	"./Mail/Trash.vue": [
 		"./resources/js/Pages/Mail/Trash.vue",
 		0,
 		1,
 		2,
-		12
+		13
+	],
+	"./OS": [
+		"./resources/js/Pages/OS.vue",
+		0,
+		1,
+		2,
+		34
+	],
+	"./OS.vue": [
+		"./resources/js/Pages/OS.vue",
+		0,
+		1,
+		2,
+		34
 	],
 	"./Profile/AccountSettings": [
 		"./resources/js/Pages/Profile/AccountSettings.vue",
 		0,
 		1,
 		2,
-		18
+		20
 	],
 	"./Profile/AccountSettings.vue": [
 		"./resources/js/Pages/Profile/AccountSettings.vue",
 		0,
 		1,
 		2,
-		18
+		20
 	],
 	"./Profile/EditProfile": [
 		"./resources/js/Pages/Profile/EditProfile.vue",
 		0,
 		1,
 		2,
-		19
+		21
 	],
 	"./Profile/EditProfile.vue": [
 		"./resources/js/Pages/Profile/EditProfile.vue",
 		0,
 		1,
 		2,
-		19
+		21
 	],
 	"./Profile/Messages": [
 		"./resources/js/Pages/Profile/Messages.vue",
 		0,
 		1,
 		2,
-		20
+		22
 	],
 	"./Profile/Messages.vue": [
 		"./resources/js/Pages/Profile/Messages.vue",
 		0,
 		1,
 		2,
-		20
+		22
 	],
 	"./Profile/Notifications": [
 		"./resources/js/Pages/Profile/Notifications.vue",
 		0,
 		1,
 		2,
-		21
+		23
 	],
 	"./Profile/Notifications.vue": [
 		"./resources/js/Pages/Profile/Notifications.vue",
 		0,
 		1,
 		2,
-		21
+		23
 	],
 	"./Profile/Profile": [
 		"./resources/js/Pages/Profile/Profile.vue",
 		0,
 		1,
 		2,
-		14
+		15
 	],
 	"./Profile/Profile.vue": [
 		"./resources/js/Pages/Profile/Profile.vue",
 		0,
 		1,
 		2,
-		14
+		15
 	],
 	"./Register": [
 		"./resources/js/Pages/Register.vue",
-		26
+		28
 	],
 	"./Register.vue": [
 		"./resources/js/Pages/Register.vue",
-		26
+		28
 	],
 	"./Reset": [
 		"./resources/js/Pages/Reset.vue",
-		27
+		29
 	],
 	"./Reset.vue": [
 		"./resources/js/Pages/Reset.vue",
-		27
+		29
+	],
+	"./Sugar": [
+		"./resources/js/Pages/Sugar.vue",
+		0,
+		1,
+		2,
+		35
+	],
+	"./Sugar.vue": [
+		"./resources/js/Pages/Sugar.vue",
+		0,
+		1,
+		2,
+		35
+	],
+	"./Temperature": [
+		"./resources/js/Pages/Temperature.vue",
+		0,
+		1,
+		2,
+		36
+	],
+	"./Temperature.vue": [
+		"./resources/js/Pages/Temperature.vue",
+		0,
+		1,
+		2,
+		36
 	],
 	"./Users/Admin/AdminAdd": [
 		"./resources/js/Pages/Users/Admin/AdminAdd.vue",
 		0,
 		1,
 		2,
-		30
+		37
 	],
 	"./Users/Admin/AdminAdd.vue": [
 		"./resources/js/Pages/Users/Admin/AdminAdd.vue",
 		0,
 		1,
 		2,
-		30
+		37
 	],
 	"./Users/Admin/AdminEdit": [
 		"./resources/js/Pages/Users/Admin/AdminEdit.vue",
-		36
+		43
 	],
 	"./Users/Admin/AdminEdit.vue": [
 		"./resources/js/Pages/Users/Admin/AdminEdit.vue",
-		36
+		43
 	],
 	"./Users/Admin/AdminHolded": [
 		"./resources/js/Pages/Users/Admin/AdminHolded.vue",
 		4,
-		40
+		46
 	],
 	"./Users/Admin/AdminHolded.vue": [
 		"./resources/js/Pages/Users/Admin/AdminHolded.vue",
 		4,
-		40
+		46
 	],
 	"./Users/Admin/AdminList": [
 		"./resources/js/Pages/Users/Admin/AdminList.vue",
@@ -67653,7 +67723,7 @@ var map = {
 		5,
 		4,
 		6,
-		31
+		38
 	],
 	"./Users/Admin/AdminList.vue": [
 		"./resources/js/Pages/Users/Admin/AdminList.vue",
@@ -67664,25 +67734,25 @@ var map = {
 		5,
 		4,
 		6,
-		31
+		38
 	],
 	"./Users/Admin/AdminView": [
 		"./resources/js/Pages/Users/Admin/AdminView.vue",
-		37
+		44
 	],
 	"./Users/Admin/AdminView.vue": [
 		"./resources/js/Pages/Users/Admin/AdminView.vue",
-		37
+		44
 	],
 	"./Users/Admin/Admins": [
 		"./resources/js/Pages/Users/Admin/Admins.vue",
 		5,
-		41
+		47
 	],
 	"./Users/Admin/Admins.vue": [
 		"./resources/js/Pages/Users/Admin/Admins.vue",
 		5,
-		41
+		47
 	],
 	"./Users/Admin/PermissionList": [
 		"./resources/js/Pages/Users/Admin/PermissionList.vue",
@@ -67697,72 +67767,72 @@ var map = {
 		0,
 		1,
 		2,
-		22
+		24
 	],
 	"./Users/Admin/RoleAdd.vue": [
 		"./resources/js/Pages/Users/Admin/RoleAdd.vue",
 		0,
 		1,
 		2,
-		22
+		24
 	],
 	"./Users/Admin/RoleEdit": [
 		"./resources/js/Pages/Users/Admin/RoleEdit.vue",
 		0,
 		1,
 		2,
-		23
+		25
 	],
 	"./Users/Admin/RoleEdit.vue": [
 		"./resources/js/Pages/Users/Admin/RoleEdit.vue",
 		0,
 		1,
 		2,
-		23
+		25
 	],
 	"./Users/Admin/RoleList": [
 		"./resources/js/Pages/Users/Admin/RoleList.vue",
 		6,
-		43
+		48
 	],
 	"./Users/Admin/RoleList.vue": [
 		"./resources/js/Pages/Users/Admin/RoleList.vue",
 		6,
-		43
+		48
 	],
 	"./Users/User/UserList": [
 		"./resources/js/Pages/Users/User/UserList.vue",
 		0,
 		1,
 		2,
-		32
+		39
 	],
 	"./Users/User/UserList.vue": [
 		"./resources/js/Pages/Users/User/UserList.vue",
 		0,
 		1,
 		2,
-		32
+		39
 	],
 	"./inc/Layout": [
 		"./resources/js/Pages/inc/Layout.vue",
 		0,
 		1,
-		42
+		16
 	],
 	"./inc/Layout.vue": [
 		"./resources/js/Pages/inc/Layout.vue",
 		0,
 		1,
-		42
+		16
 	],
 	"./inc/SideNavBar": [
 		"./resources/js/Pages/inc/SideNavBar.vue",
-		38
+		1
 	],
 	"./inc/SideNavBar.vue": [
 		"./resources/js/Pages/inc/SideNavBar.vue",
-		38
+		1
 	],
 	"./inc/TopNavBar": [
 		"./resources/js/Pages/inc/TopNavBar.vue",
@@ -67774,11 +67844,11 @@ var map = {
 	],
 	"./ui/Datatable": [
 		"./resources/js/Pages/ui/Datatable.vue",
-		33
+		40
 	],
 	"./ui/Datatable.vue": [
 		"./resources/js/Pages/ui/Datatable.vue",
-		33
+		40
 	]
 };
 function webpackAsyncContext(req) {
@@ -67982,8 +68052,8 @@ window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__["default"]({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /media/fahim/31CD2700401AFC391/projects/boilerplate/api/resources/js/admin.js */"./resources/js/admin.js");
-module.exports = __webpack_require__(/*! /media/fahim/31CD2700401AFC391/projects/boilerplate/api/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /media/fahim/31CD2700401AFC393/projects/fn/api/resources/js/admin.js */"./resources/js/admin.js");
+module.exports = __webpack_require__(/*! /media/fahim/31CD2700401AFC393/projects/fn/api/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

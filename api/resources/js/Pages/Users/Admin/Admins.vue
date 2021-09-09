@@ -408,6 +408,7 @@
                 });
 
             },
+            
             allDelete(){
                 this.$confirm("Are you sure to delete all permission?","Warning","warning").then(() => {
                     this.$inertia.post('/admins/admin-permission/delete-all',{

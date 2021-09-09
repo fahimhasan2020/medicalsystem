@@ -62,3 +62,10 @@ Route::get('email/support','MailboxController@support')->name('mail.support');
 Route::get('email/contact','MailboxController@contact')->name('mail.contact');
 /*Mailbox*/
 
+
+/*ml*/
+Route::get('/ecg','HomeController@ecg')->name('user.ecg');
+Route::get('/bp','HomeController@bp')->name('user.bp');
+Route::get('/temperature','HomeController@temperature')->name('user.temperature');
+Route::get('/os','HomeController@os')->name('user.os');
+Route::get('/sugar','HomeController@sugar')->name('user.sugar');
